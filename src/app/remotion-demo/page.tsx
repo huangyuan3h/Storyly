@@ -1,3 +1,4 @@
+'use client'
 import { Composition, continueRender, delayRender } from 'remotion'
 import { DemoVideo } from '@/components/DemoVideo'
 
