@@ -14,11 +14,18 @@
     "sst:dev": "sst dev"
   },
   "dependencies": {
+    "@radix-ui/react-navigation-menu": "^1.2.14",
+    "@radix-ui/react-slot": "^1.2.4",
     "@remotion/cli": "^4.0.414",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.563.0",
     "next": "16.0.0",
     "react": "^18",
     "react-dom": "^18",
-    "remotion": "^4.0.414"
+    "remotion": "^4.0.414",
+    "tailwind-merge": "^3.4.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
